@@ -1,6 +1,6 @@
-greeting=Hello World!
-name=Maureen Sindiso Mpofu
- username=momoe
- code=MCA1230
- number=771222279
- currency=ZWL
+my.greeting=Hello World!
+my.name=Maureen Sindiso Mpofu
+my.username=momoe
+my.code=MCA1230
+my.number=771222279
+my.currency=ZWL
