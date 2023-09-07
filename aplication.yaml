@@ -1,5 +1,4 @@
-my:
-	greeting: Hellow Karich
+my.greeting=Hello World!
 
 db:
   connection: connection-string-here
